@@ -51,10 +51,3 @@ python Defense_Adver.py --dataset "dataset" --model "model" --epsilon "epsilon"
 python AddNoiseByFeature_MIA.py --noise_order "noise_order:23/14/random" --epsilon "epsilon"
 python AddNoiseByFeature_Adver.py --noise_order "noise_order:12/34/random" --epsilon "epsilon"
 ```
-
-
-### Some results
-![img](imgs/MIR.png)
-
-
-
